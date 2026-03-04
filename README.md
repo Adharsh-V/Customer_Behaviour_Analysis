@@ -43,8 +43,8 @@ Certain age groups contribute more to overall sales
 
 # Tools Used
 
-Python (Pandas)
-MySQL
+Python (Pandas), 
+MySQL, 
 Power BI
 
 # Outcome
